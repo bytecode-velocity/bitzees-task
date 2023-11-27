@@ -4,7 +4,7 @@
 
 ```shell
 # clone the repo
-git clone
+git clone https://github.com/bytecode-velocity/bitzees-task.git
 # change directory
 cd bitzees-task
 ```
