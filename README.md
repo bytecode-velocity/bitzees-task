@@ -9,7 +9,7 @@ git clone https://github.com/bytecode-velocity/bitzees-task.git
 cd bitzees-task
 ```
 
-Then open and fill all the fields in .env using appropriate values. They are as follows:
+Then create a new file called `.env` and fill all the fields in it using appropriate values. They are as follows:
 
 ```
 # This account should have some AVAX
