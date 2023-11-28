@@ -12,7 +12,7 @@ con.connect(function (err) {
   console.log("connected!");
 
   // create bitzees_task database
-  con.query("CREATE DATABASE bitzees_task", function (err, result) {
+  con.query("CREATE DATABASE bitzeees_task", function (err, result) {
     if (err) throw err;
     console.log("Database created!");
   });
