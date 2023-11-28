@@ -6,7 +6,7 @@ const con = mysql.createConnection({
   host: "localhost",
   user: process.env.SQL_USER,
   password: process.env.SQL_PASS,
-  database: "bitzeees_task",
+  database: "bitzees_task",
 });
 
 async function storeData(txHashes) {
