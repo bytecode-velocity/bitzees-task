@@ -69,6 +69,9 @@ https://testnet.snowtrace.io/tx/0x33d60160d82fbe0096d1851e79e44103ff31cab390dd04
 Minting 0.0001 (100) USDT to an address
 https://testnet.snowtrace.io/tx/0xe18f050f153f88f0abc8a845050f34ce1b25fb23d0eaedd69975186a32c44963?chainId=43113
 
-Transfering (50) USDT to another address
+Transfering 0.00005 (50) USDT to another address
 https://testnet.snowtrace.io/tx/0xb1fdadb43d37b7d0da65634c25b26e13558299f157d4b7992c789488520e1a40?chainId=43113
 ```
+
+![image](https://github.com/bytecode-velocity/bitzees-task/assets/29842127/31d86253-e6d2-4d92-a017-160f75d86d58)
+
